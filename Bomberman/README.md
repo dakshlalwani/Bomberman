@@ -1,5 +1,7 @@
 # Bomberman
 
+## How to run game
+
 1). Go to the directory 'Bomberman'
 
 2). Execute 'python bomberman.py' or 'python3 bomberman.py'
@@ -24,8 +26,7 @@
 
     break a brick -> score += 20
 
-# Documentation
+## Documentation
 
     -> OOPs principle used { Inheriance, Polymorphism, Modularity, Encapsulation }
 
-    -> Bonus attemped
