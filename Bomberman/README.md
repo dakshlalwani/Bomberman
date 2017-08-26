@@ -20,7 +20,7 @@
 
 4). score info:
 
-    kill an enemy -> score += 50
+    kill an enemy -> score += 100
 
     break a brick -> score += 20
 
